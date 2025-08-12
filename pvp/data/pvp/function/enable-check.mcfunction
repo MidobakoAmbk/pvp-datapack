@@ -1,0 +1,1 @@
+execute if data storage pvp:dev_mode {mode:on} run function pvp:dev_mode/devmode

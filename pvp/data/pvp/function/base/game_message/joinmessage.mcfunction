@@ -1,0 +1,1 @@
+tellraw @a [{text:"ゲームに参加する場合は、下のボタンを押してください\n"},{text:"[ゲームに参加]",color:"green",bold:true,click_event:{action:"run_command",command:"trigger bookcommand set 4"}}]

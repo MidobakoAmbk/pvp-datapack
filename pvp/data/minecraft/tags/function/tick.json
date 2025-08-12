@@ -1,0 +1,8 @@
+{
+    "values": [
+        "pvp:rvc/death/deathprocess",
+        "pvp:rvc/result/end-judge",
+        "pvp:base/trigger-enable",
+        "pvp:enable-check"
+    ]
+}

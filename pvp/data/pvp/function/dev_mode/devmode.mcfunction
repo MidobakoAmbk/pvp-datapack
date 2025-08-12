@@ -1,0 +1,1 @@
+scoreboard players operation -player dev_mode = @s[tag=dev_Mode_Key] player
